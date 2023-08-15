@@ -7,6 +7,8 @@
 
 <h3 align="center">I'm a very curious and passionate creature with a laptop</h3>
 
+<p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
+
 
 
 - 🔭 I’m currently working at ATD Travel Services [as Software Engineer](https://www.attractiontickets.com/en)
