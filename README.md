@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lukacs</h1>
 <h3 align="center">I'm a very curious and passionate creature with a laptop</h3>
-<p align="center"> <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/13HgwGsXF0aiGY" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/13HgwGsXF0aiGY">via GIPHY</a></p> </p>
-
+<iframe src="https://giphy.com/embed/13HgwGsXF0aiGY" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/13HgwGsXF0aiGY">via GIPHY</a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukacspapp&label=Profile%20views&color=0e75b6&style=flat" alt="lukacspapp" /> </p>
+
+<iframe src="https://giphy.com/embed/13HgwGsXF0aiGY" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/13HgwGsXF0aiGY">via GIPHY</a></p>
 
 - 🔭 I’m currently working at ATD Travel Services [as Software Engineer](https://www.attractiontickets.com/en)
 
