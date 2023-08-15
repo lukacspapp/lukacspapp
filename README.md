@@ -2,7 +2,7 @@
   Hey There,
         <img src = "https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/wave.gif" width = 50px> 
         </samp>
-  My Name is<b><a target="_blank" href="https://lukacsjpapp.com/">Lukacs</a></b>
+  My Name is<b><a target="_blank" href="https://lukacsjpapp.com/"> Lukacs</a></b>
 </h1>
 
 <h3 align="center">I'm a very curious and passionate creature with a laptop</h3>
