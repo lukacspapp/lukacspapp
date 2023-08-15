@@ -1,6 +1,7 @@
 <h1 align="center">
-  <samp>&gt; Hi there! I am
-                <b><a target="_blank" href="https://bencoding.com/">Ben</a></b> <img src = "https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/wave.gif" width = 50px> 
+  Hey There, My Name is<b><a target="_blank" href="https://lukacsjpapp.com/">Lukacs</a></b>
+  <samp>&gt;
+        <img src = "https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/wave.gif" width = 50px> 
         </samp>
 </h1>
 
