@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lukacs</h1>
 <h3 align="center">I'm a very curious and passionate creature with a laptop</h3>
+<p align="center"> <img src="https://giphy.com/gifs/producthunt-cat-developer-xUPGcEliCc7bETyfO8" alt="lukacsjpapp" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukacspapp&label=Profile%20views&color=0e75b6&style=flat" alt="lukacspapp" /> </p>
 
