@@ -7,6 +7,8 @@
 
 <h3 align="center">I'm a very curious and passionate creature with a laptop</h3>
 
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
 
 
