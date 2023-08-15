@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lukacs</h1>
 <h3 align="center">I'm a very curious and passionate creature with a laptop</h3>
 
+<hr/>
+
 - 🔭 I’m currently working at ATD Travel Services [as Software Engineer](https://www.attractiontickets.com/en)
 
 - 🌱 I’m currently learning **Module Federation**
