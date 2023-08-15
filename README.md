@@ -1,7 +1,12 @@
-<h1 align="center">Hi 👋, I'm Lukacs</h1>
+<h1 align="center">
+  <samp>&gt; Hi there! I am
+                <b><a target="_blank" href="https://bencoding.com/">Ben</a></b> <img src = "https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/wave.gif" width = 50px> 
+        </samp>
+</h1>
+
 <h3 align="center">I'm a very curious and passionate creature with a laptop</h3>
 
-<hr/>
+
 
 - 🔭 I’m currently working at ATD Travel Services [as Software Engineer](https://www.attractiontickets.com/en)
 
