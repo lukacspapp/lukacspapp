@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working at ATD Travel Services [as Software Engineer](https://www.attractiontickets.com/en)
 
-- 🌱 I’m currently learning **Module Federation**
+- 🌱 I’m currently learning **GO**
 
 - 👨‍💻 All of my projects are available at [https://lukacsjpapp.com/](https://lukacsjpapp.com/)
 
