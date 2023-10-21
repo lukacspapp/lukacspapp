@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working at ATD Travel Services [as Software Engineer](https://www.attractiontickets.com/en)
 
-- 🌱 I’m currently learning **GO**
+- 🌱 I’m currently learning  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 
 - 👨‍💻 All of my projects are available at [https://lukacsjpapp.com/](https://lukacsjpapp.com/)
 
