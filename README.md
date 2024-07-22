@@ -12,7 +12,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
 
 
-- 🔭 I’m currently working at ATD Travel Services [as Software Engineer](https://www.attractiontickets.com/en)
+- 🔭 I’m currently working at JENTIS [as Backend Engineer](https://www.jentis.com/en/)
 
 - 🌱 I’m currently learning  **GO**
 
