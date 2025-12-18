@@ -35,5 +35,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukacspapp&show_icons=true&locale=en&layout=compact" alt="lukacspapp" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukacspapp&show_icons=true&locale=en" alt="lukacspapp" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lukacspapp&" alt="lukacspapp" /></p>
