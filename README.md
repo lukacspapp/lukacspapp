@@ -12,7 +12,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
 
 
-- 🔭 I’m currently working at [JENTIS](https://www.jentis.com/en/) as a Backend Developer
+- 🔭 I’m currently working at [Apex Lab](https://www.apexlab.io/) as a Senior Full Stack Developer
 
 - 🌱 I’m currently learning  **GO**
 
